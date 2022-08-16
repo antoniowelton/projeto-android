@@ -198,7 +198,7 @@ aside > h3 {
 aside > ul {
     list-style-type: '\2714\00A0\00A0'; /* Código do Emojipedia para colocar o símbolo do 'CHEK': 2714. --- os outros códigos são pra dar espaço. */
     list-style-position: inside; /*Trouxe a lista pra dentro do 'ASIDE' */
-    columns: 2; /*Dividiu a lista em duas colunas*/
+    columns: 2; /*Dividiu a lista em duas colunas*/    
 }
 
 /* #######################################################################################*/
