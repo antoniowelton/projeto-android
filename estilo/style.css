@@ -207,7 +207,7 @@ aside > ul {
 footer {
     margin: 20px 0px;
     background-color: var(--cor4);
-    padding: 30px;
+    padding: 40px;
     background-image: linear-gradient(to top, var(--cor4), var(--cor2));
 
 }
